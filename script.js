@@ -37,12 +37,7 @@ console.log(firstName(persons));
 
 //Q3
 function objectToArray(obj) {
-    const result = [];
-    for (const key in obj) {
-        result.push(key, obj[key]);
-    }
-    return result;
+  return Object.entries(obj).flat();
 }
 
-const input = { firstName: "Hasan", age: 22 };
-console.log(objectToArray(input));
+console.log(objectToArray({ firstName: "Hasan", age: 22 }));
