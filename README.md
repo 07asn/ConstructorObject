@@ -22,3 +22,5 @@ This project demonstrates the basics of JavaScript, including creating objects, 
 ## 📸 Resource
 ![JavaScript Basics Resource](https://drive.google.com/uc?export=view&id=1zU7trOJgrK05rvXtL7_nTlCUJ0iuAUrR)
 
+
+![JavaScript Basics Resource](https://drive.google.com/uc?export=view&id=1p5u5YIK9aG6nKbQc3GNXOujG2iwfmRem)
